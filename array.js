@@ -35,3 +35,4 @@ if (friends.indexOf(28) !== -1) {
 const newFriendAge = [12, 20, 21, 19, 17];
 const allFriends = newFriendAge.concat(friends); // important
 console.log(allFriends)
+
